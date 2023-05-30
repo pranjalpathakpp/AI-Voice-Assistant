@@ -5,7 +5,7 @@ import time
 
 
 
-openai.api_key = "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"
+openai.api_key = ""  # here goes your api key
 
 engine = pyttsx3.init()
 
